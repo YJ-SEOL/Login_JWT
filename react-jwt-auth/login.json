@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "email": "test2@mail.com",
+      "password": "$2a$10$kMOg.B1a1zAQtlAp.9S0pOsFZCyiWHiVkWTuorsQ.HjHXf6fDMove",
+      "id": 1
+    },
+    {
+      "email": "test1@mail.com",
+      "password": "$2a$10$b.rZBVf3Jg0SMbrtV0ZpDuIcFRezon8/kxR0Iq.goCroG9sTjbYBG",
+      "id": 2
+    },
+    {
+      "email": "test3@mail.com",
+      "password": "$2a$10$7SNR3eY2GxN6ueNwCL6c6eIinJ82jygMJmSbTUM0GP2Xe1jZtMZG.",
+      "id": 3
+    },
+    {
+      "email": "admin1@mail.com",
+      "password": "$2a$10$fTmXj/Ul7qsRg4vgNQNfpOtJ6FQM/PHxjFy.QAtA2s9rCAWkd2IYK",
+      "id": 4
+    },
+    {
+      "email": "admin2@mail.com",
+      "password": "$2a$10$97Ad8bduVe.dsdKFWefFb.wIhI/cZN/WDjeaqnuwmYB1/zwytgUhm",
+      "id": 5
+    },
+    {
+      "email": "admin3@mail.com",
+      "password": "$2a$10$LMFlYUy4AAThmYkytMtDVeaZGaIs9VXOM7Q4tlPsi3PySNA204P52",
+      "id": 6
+    },
+    {
+      "email": "user1@mail.com",
+      "password": "$2a$10$wS5KRZr4SuHD5wiYVsorveNE1N9lTLKlHiiFoiHWEbtGGdDHS5EWS",
+      "id": 7
+    },
+    {
+      "email": "user2@mail.com",
+      "password": "$2a$10$IZHH9M9xaj5ESNxRIqk75uyv/K3.Dp.Odp5/St0QIlVhWcf37NDiG",
+      "id": 8
+    },
+    {
+      "email": "dhkim@sdenet.net",
+      "password": "$2a$10$zdYYuG4wI9Rceetx5dAZAOgEKIUzSlTOIzNqN9L0fMC1RgVEZ71R2",
+      "id": 9
+    }
+  ]
+}
